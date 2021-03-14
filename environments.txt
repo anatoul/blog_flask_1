@@ -1,0 +1,2 @@
+C:\Users\79787\Anaconda3\envs\tensorflow
+C:\Users\79787\Anaconda3\envs\spyder
